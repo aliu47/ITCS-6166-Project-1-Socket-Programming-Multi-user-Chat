@@ -1,0 +1,8 @@
+John[15:26]: Hello
+Alice[15:26]: Hello
+John[15:26]: would you like to see a movie?
+Alice[15:27]: sure!
+John[15:27]: ok
+
+anna[15:20]: asd
+ruth[15:20]: 123
